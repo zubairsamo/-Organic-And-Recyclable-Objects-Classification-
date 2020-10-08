@@ -1,4 +1,4 @@
-## -Organic-And-Recyclable-Objects-Classification-
+## Organic-And-Recyclable-Objects-Classification
 
 # PROBLEM
 Waste management is a big problem in our country. Most of the wastes end up in landfills. This leads to many issues like
@@ -29,13 +29,13 @@ Training data - 22564 images  Test data - 2513 images
 ## Requirements
 Type below command in cmd to get up and running with the dependencies of the file.
 ```
-git clone https://github.com/zubairsamo/-Organic-And-Recyclable-Objects-Classification-
+git clone https://github.com/zubairsamo/Organic-And-Recyclable-Objects-Classification
 .git
 
 ```
 ## Usage
 
--Organic-And-Recyclable-Objects-Classification-.py
+Organic-And-Recyclable-Objects-Classification.py
 
 ## Author
 You can get in touch with me on my LinkedIn Profile:
